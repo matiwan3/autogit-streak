@@ -1,1 +1,1 @@
-# autogit-streak
+# Auto github streak app
